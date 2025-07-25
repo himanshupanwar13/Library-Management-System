@@ -130,8 +130,6 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE.txt file for more information.
 
 <p align="center">
 <em>Created with ❤️ by Himanshu Panwar</em>
